@@ -38,3 +38,5 @@ Contact<br>
 📫 You can reach me via email at [ylanouh.dev@gmail.com]. I'm open to collaboration opportunities and interesting discussions.<br><br>
 <br>
 Thank you for visiting my profile! I hope you have found what you were looking for. Looking forward to collaborating with you! 👍<br>
+<br>
+![Stats](https://github-readme-stats.vercel.app/api?username=kotlini&show_icons=true&theme=radical)
