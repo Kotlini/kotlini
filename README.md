@@ -29,7 +29,7 @@ Docker 🐳<br>
 Projects<br>
 Here are some of the recent projects I have worked on:<br>
 <br>
-NoName 1 - Development Team ( [Discord Team](https://discord.gg/g6txzDuF) )<br>
+Trivial 1 - Development Team ( [Discord Team](https://discord.gg/5srA2YW4CH) )<br>
 Elementals 2 - 2D video game inspired by Street Fighter (work in progress).<br>
 SupraHologram 3 - Spigot libraries for creating holograms.<br>
 Feel free to explore my profile for more interesting projects!<br>
